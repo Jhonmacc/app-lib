@@ -294,6 +294,9 @@ export default {
                                         showConfirmButton: false,
                                     });
                                     this.fetchLoans();
+                                    setTimeout(() => {
+                                    window.location.reload();
+                                }, 3000);
                                 })
                                 .catch(() => {
                                     Swal.fire('Erro!', 'Falha ao excluir o empréstimo.', 'error');
