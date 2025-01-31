@@ -1,0 +1,6 @@
+@import 'datatables.net-dt';
+@import 'vue-multiselect/dist/vue-multiselect.css';
+@import 'vue-select/dist/vue-select.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
