@@ -66,11 +66,13 @@ Um sistema completo para gestão de acervo literário, empréstimos e usuários 
 
 ## Instalação 
 Versão do PHP 8.2
-Sevidor NGINX ou Apache da sua escolha
-Recomendo baixar o => https://herd.laravel.com/windows
-Herd é um ambiente de desenvolvimento nativo e rápido para Laravel e PHP para Windows. Ele inclui tudo o que você precisa para começar a desenvolver com Laravel, incluindo PHP e nginx. Depois de instalar o Herd, você está pronto para começar a desenvolver com Laravel.
-No Herb escolha versão do PHP 8.2 e pronto 
-Eu acho melhor que o XAMPP ou WAMP SERVER
+- Sevidor NGINX ou Apache da sua escolha
+- Recomendo fortemente baixar o HERB => https://herd.laravel.com/windows
+  Herd é um ambiente de desenvolvimento nativo e rápido para Laravel e PHP para Windows. 
+  Ele inclui tudo o que você precisa para começar a desenvolver com Laravel, incluindo PHP e nginx.
+  Depois de instalar o Herd, você está pronto para começar a desenvolver com Laravel.
+- No Herb escolha versão do PHP 8.2 e pronto. 
+- Eu acho melhor que o XAMPP ou WAMP SERVER.
 
 1. Clone o repositório:
 
