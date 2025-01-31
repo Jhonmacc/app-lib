@@ -4,6 +4,9 @@ Um sistema completo para gestão de acervo literário, empréstimos e usuários 
 
 ![Screenshot do Sistema](https://i.imgur.com/2r6hnYd.png) 
 
+## Validações inteligêntes
+![Screenshot do Sistema](https://i.imgur.com/uLdIFI2.png) 
+
 ## Funcionalidades Principais
 
 ### 📚 Gestão de Livros
