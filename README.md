@@ -101,4 +101,4 @@ php artisan serve
 http://localhost:8000
 http://localhost:portaquevoceusa
 
-A acessar o sistema você será redirecionado para tela de login clica em Registre-se e crie sua conta após isso será redirecionado par tela de gerenciamento de usuário, cadastre os usuário da biblioteca para que eles possam solicitar os empréstimos dos livros, depois acesse a tela de Livros e cadastre os livros e cópias dos livros, pois são as cópias que possui números de registros e elas que são emprestadas aos usuários, próximo passo efetue o empréstimo na tela de Empréstimos.
+Ao acessar o sistema você será redirecionado para tela de login, clique em Registre-se e crie sua conta, após isso será redirecionado para tela de gerenciamento de usuários, cadastre os usuários da biblioteca para que eles possam solicitar os empréstimos dos livros, depois acesse a tela de Livros e cadastre os livros e cópias dos livros, pois são as cópias que possui números de registros e elas que são emprestadas aos usuários, próximo passo efetue o empréstimo na tela de Empréstimos.
