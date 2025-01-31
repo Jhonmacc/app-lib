@@ -93,7 +93,11 @@ php artisan migrate
 npm run build
 npm run dev
 ```
-7.Acesse o sistema:
+7. Inicialize o servidor do laravel:
+```bash
+php artisan serve
+```
+8.Acesse o sistema:
 http://localhost:8000
 http://localhost:portaquevoceusa
 
