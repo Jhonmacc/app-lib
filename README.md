@@ -25,7 +25,7 @@ Um sistema completo para gestão de acervo literário, empréstimos e usuários 
   - CPF único
   - E-mail e dados de contato
 - Histórico de empréstimos por usuário
-- Busca inteligente de usuários (Em desenvolvidmento :D)
+- Busca inteligente de usuários (Em desenvolvidmento)
 
 ### 🔄 Gestão de Empréstimos
 - Realização de empréstimos com:
@@ -37,13 +37,13 @@ Um sistema completo para gestão de acervo literário, empréstimos e usuários 
   - Atrasos com destaque visual
 - Visualização em tempo real de:
   - Cópias disponíveis para empréstimo
-  - Histórico completo de movimentações (Em desenvolvimento) :D
+  - Histórico completo de movimentações (Em desenvolvimento)
 
 ### 📊 Funcionalidades Especiais
 - Interface intuitiva com:
   - DataTables interativos
   - Modais contextualizados
-  - Filtros inteligentes (Em desenvolvimento) :D
+  - Filtros inteligentes (Em desenvolvimento)
 - Notificações visuais com SweetAlert2
 - Validações de dados em tempo real
 
